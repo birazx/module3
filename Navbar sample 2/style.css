@@ -1,0 +1,16 @@
+#navbar{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+}
+
+
+
+button{
+    background-color: #f08804;
+}
+   
+a:link{
+    color: yellow;
+}

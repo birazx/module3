@@ -1,0 +1,31 @@
+ul{
+ display: flex;
+ background-color: lightgray;
+ justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
+
+.div1{
+    background-color: aqua;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.div2{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    
+   
+}
